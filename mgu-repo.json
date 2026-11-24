@@ -1,0 +1,13 @@
+{
+  "name": "Drag & Launch Control Repo",
+  "apps": [
+    {
+      "id": "drag-control-id7",
+      "name": "Drag & Launch Control",
+      "version": "1.0.0",
+      "description": "4700 RPM Launch Control Line-Lock Bypass & RWD Mode",
+      "mguHmi": ["ID7"],
+      "url": "https://github.com"
+    }
+  ]
+}
