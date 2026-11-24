@@ -1,0 +1,13 @@
+{
+  "name": "drag-control-id7",
+  "version": "1.0.0",
+  "description": "RWD Mode & 4700 RPM Launch Control Line-Lock Bypass",
+  "main": "index.js",
+  "mguHmi": ["ID7"],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "socketcan": "^3.0.1"
+  }
+}
